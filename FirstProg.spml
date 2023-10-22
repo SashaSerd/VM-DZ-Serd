@@ -1,0 +1,9 @@
+set 12 6
+set 13 28
+add 12 13 14
+output 14
+fibon 32 10
+output 32
+maxk 28 10 35
+output 28
+exit
